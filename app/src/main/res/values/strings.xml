@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Concentration_timer</string>
+    <string name="title_activity_conc_timer">ConcTimerActivity</string>
+</resources>
